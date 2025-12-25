@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958444840862",
+    "project_id": "laza-ecommerce-cb0e1",
+    "storage_bucket": "laza-ecommerce-cb0e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958444840862:android:c7f94679615b8064e6188f",
+        "android_client_info": {
+          "package_name": "com.example.laza_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958444840862-260ij69996eq44p5pesigjjdn8derhqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laza_ecommerce",
+            "certificate_hash": "7713de01aa27f4ec7a4f3106d12e1b633f53c9c9"
+          }
+        },
+        {
+          "client_id": "958444840862-cm2idts6mdtoe3sd8jpubeju851gmt0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm2mVqQyAxEQUxUfxB3WW4yWyi-5kfyOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958444840862-cm2idts6mdtoe3sd8jpubeju851gmt0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+C:\Users\burri\StudioProjects\laza>python appium_tests/auth_test.py
+1. App Launched
+2. Clicked Skip
+3. Clicked Signin
+4. Entered Email
+5. Entered Password
+6. Clicked Login
+7. Screenshot saved: auth_test.png
